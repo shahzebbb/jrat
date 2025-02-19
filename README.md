@@ -1,6 +1,6 @@
 # jrat
 
-**jrat** is a personal project developed to learn Java programming. It provides a simple Command Line Interface (CLI) with basic version control commands: `log`, `init`, `commit`, and `checkout`.
+**jrat** is a personal project that I developed to learn Java programming. It provides a simple Command Line Interface (CLI) with basic version control commands: `log`, `init`, `commit`, and `checkout`.
 
 ## Features
 
