@@ -37,14 +37,14 @@ public class Main {
 
                 // Check if the response is 'yes'
                 if (response.equals("yes") || response.equals("y")) {
-                    System.out.println("Proceeding with the action...");
-                    // Add your logic here to proceed
+                    CheckoutCommand.execute(args[1]);
+                    return;
                 } else {
                     System.out.println("Operation cancelled.");
                     return;
                 }
                 
-                CheckoutCommand.execute(args[1]);
+                
         }
 
     }
