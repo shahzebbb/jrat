@@ -11,7 +11,7 @@
 
 ## Prerequisites
 
-- **Java Development Kit (JDK)**: Version 17 or higher.
+- **Java Development Kit (JDK)**: This project was built using JDK 21. I have not tested it on other versions.
 - **Apache Maven**: Used for build automation.
 
 ## Building the Project
